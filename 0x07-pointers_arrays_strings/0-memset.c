@@ -1,4 +1,4 @@
-/*
+/**
  * File: 0-memset.c
  * Auth: not
  */
