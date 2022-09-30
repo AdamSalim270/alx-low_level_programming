@@ -1,0 +1,1 @@
+program that prints its name, followed by a new line./n program that prints the number of arguments passed into it./nprogram that prints all arguments it receives./nprogram that multiplies two numbers.\\
